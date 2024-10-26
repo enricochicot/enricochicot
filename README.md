@@ -28,3 +28,7 @@
     <a href="https://gmail.com/enricoleite7@gmail.com" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
      target=_blank></a>
 </div>
+
+![Snake animation].(https://github.com/enricochicot/enricochicot/blob/output/github-contribution-grid-snake.svg)
+
+[![readme].(https://github-readme-stats.vercel.app/api/pin/?username=enricochicot&repo=enricochicot&theme=react).](https://github.com/enricochicot/enricochicot)
