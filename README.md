@@ -29,6 +29,4 @@
      target=_blank></a>
 </div>
 
-![Snake animation].(https://github.com/enricochicot/enricochicot/blob/output/github-contribution-grid-snake.svg)
 
-[![readme].(https://github-readme-stats.vercel.app/api/pin/?username=enricochicot&repo=enricochicot&theme=react).](https://github.com/enricochicot/enricochicot)
