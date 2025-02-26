@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000B58&height=120&section=header"/>
 
-## 👨🏻‍💻Olá, meu nome é Enrico!
+## 👨🏻‍💻 Olá, meu nome é Enrico!
 
   <img 
     align="left" 
