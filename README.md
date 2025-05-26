@@ -11,6 +11,7 @@
 
 </p>
 
+![Pac-Man](./assets/pacman.gif)
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000B58&height=120&section=footer"/>
 
