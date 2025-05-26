@@ -31,7 +31,7 @@
 ## 📫 Contato:
 
 - ✉️ Email: [enricoleite7@gmail.com](mailto:enricoleite7@gmail.com)
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/enricoleite/)
+- 💼 LinkedIn: [Enrico Leite](https://www.linkedin.com/in/enricoleite/)
 
 ---
 
