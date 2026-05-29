@@ -12,6 +12,7 @@
 
 ```typescript
 const enrico = {
+<<<<<<< HEAD
   formação:    "Análise e Desenvolvimento de Sistemas",
   cargo:       "Analista Júnior",
   localização: "Brasil",
@@ -19,6 +20,13 @@ const enrico = {
   foco:        "Desenvolvimento Fullstack & Integrações Inteligentes",
   contato:     "enricoleite7@gmail.com",
   hobbies:     ["tecnologia", "música", "games"],
+=======
+  formação:   "Análise e Desenvolvimento de Sistemas",
+  cargo:      "Analista Júnior",
+  estudando:  ["C#", "React", "n8n", "Automações"],
+  foco:       "Desenvolvimento Fullstack & Integrações Inteligentes",
+  contato:    "enricoleite7@gmail.com",
+>>>>>>> eb21b1fd6109e10ad7caf6dc5197574065455908
 };
 ```
 
