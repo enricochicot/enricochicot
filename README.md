@@ -52,7 +52,7 @@ const enrico = {
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/6e40c9/enricochicot" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enricochicot&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
