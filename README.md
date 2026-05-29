@@ -54,14 +54,6 @@ const enrico = {
 
 ---
 
-### Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enricochicot&theme=dracula&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### Contato
 
 <p align="center">
