@@ -52,6 +52,10 @@ const enrico = {
   <img src="https://streak-stats.demolab.com/?user=enricochicot&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/6e40c9/enricochicot" alt="Contribution Graph" width="100%"/>
+</p>
+
 ---
 
 ### Contato
