@@ -13,7 +13,7 @@
 ```typescript
 const enrico = {
   formação:   "Análise e Desenvolvimento de Sistemas",
-  cargo:      "Estagiário em Desenvolvimento de Sistemas",
+  cargo:      "Analista Júnior",
   estudando:  ["C#", "React", "n8n", "Automações"],
   foco:       "Desenvolvimento Fullstack & Integrações Inteligentes",
   contato:    "enricoleite7@gmail.com",
