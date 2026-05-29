@@ -41,17 +41,6 @@ const enrico = {
 
 ---
 
-### Atualmente Aprendendo
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
----
-
 ### GitHub Stats
 
 <p align="center">
@@ -60,19 +49,15 @@ const enrico = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enricochicot&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=enricochicot&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### Contribuições
+### Troféus
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enricochicot/enricochicot/output/dist/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enricochicot/enricochicot/output/dist/pacman-contribution-graph.svg"/>
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enricochicot/enricochicot/output/dist/pacman-contribution-graph.svg"/>
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=enricochicot&theme=dracula&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
