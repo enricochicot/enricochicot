@@ -14,8 +14,7 @@
 const enrico = {
   formação:    "Análise e Desenvolvimento de Sistemas",
   cargo:       "Analista Júnior",
-  localização: "Brasil",
-  estudando:   ["C#", "React", "TypeScript", "n8n", "Automações"],
+  localização: "São Paulo, Brasil",
   foco:        "Desenvolvimento Fullstack & Integrações Inteligentes",
   contato:     "enricoleite7@gmail.com",
   hobbies:     ["tecnologia", "música", "games"],
