@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000B58&height=150&section=header&text=Enrico%20Chicot&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20ADS%20%7C%20Fullstack&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000B58&height=150&section=header&text=Enrico%20Chicot&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analista%20J%C3%BAnior%20%7C%20ADS%20%7C%20Fullstack&descAlignY=55&descAlign=50"/>
 
 <p align="center">
   <a href="https://github.com/enricochicot">
